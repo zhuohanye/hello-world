@@ -2,4 +2,4 @@
 
 
 Testing, testing. 
-I like java and comouter games.
+I like java and computer games.
